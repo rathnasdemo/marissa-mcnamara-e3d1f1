@@ -1,21 +1,21 @@
 ---
 schemaId: urn:gala:schema:content-frontmatter:2.0.0
-schemaVersion: "2.0.0"
-id: 00000000-0000-7000-8000-000000000010
+schemaVersion: 2.0.0
+id: 01a1a253-67d2-755e-b34d-49bbafcf14be
 kind: article
 title: Welcome to your publication
 description: A practical first field note about shaping a publication you own.
 language: en-US
 authors:
-  - 00000000-0000-7000-8000-000000000002
+- 01a1a253-67d2-7617-af88-1b8da340e3dd
 tags:
-  - field-notes
-  - welcome
+- field-notes
+- welcome
 series: Building in public
 seriesOrder: 1
 status: published
-createdAt: "2026-09-27T00:00:00.000Z"
-publishedAt: "2026-09-27T00:00:00.000Z"
+createdAt: '2026-11-03T16:52:17.490Z'
+publishedAt: '2026-11-03T16:52:17.490Z'
 slug: welcome-to-your-publication
 redirects: []
 extensions: {}
